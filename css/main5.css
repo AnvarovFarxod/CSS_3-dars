@@ -1,0 +1,95 @@
+body{
+    background-color: salmon;
+}
+.text-block{
+    width: 1200px;
+    margin: 50px auto;
+}
+.text-block-item-1{
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+    border: 4px solid black;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 45px;
+    background-color: white;
+}
+.text-block-item-2{
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+    border: 4px solid black;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 45px;
+    background-color: white;
+
+}
+.text-block-item-3{
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+    border: 4px solid black;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 45px;
+    background-color: white;
+}
+.text-block-item-4{
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+    border: 4px solid black;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 45px;
+    background-color: white;
+}
+.text-block-item-5{
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+    border: 4px solid black;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 45px;
+    background-color: white;
+}
+.text-block-item-6{
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+    border: 4px solid black;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 45px;
+    background-color: white;
+}
+.clear{
+    clear:both;
+}
